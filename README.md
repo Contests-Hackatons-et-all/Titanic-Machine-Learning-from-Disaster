@@ -1,4 +1,4 @@
-## This repository contains the code and information used in the House Prices - Advanced Regression Techniques in Kaggle.
+## This repository contains the code and information used in the Titanic - Machine Learning from Disaster competition in Kaggle.
 
 **Topic:** Classification of binary variable
 
